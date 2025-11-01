@@ -19,7 +19,7 @@ main {
 footer {
     text-align: center;
     padding: 1em 0;
-    background: #444;
+    background: #555;  /* Changed from #444 to #555 */
     color: #fff;
     position: relative;
     bottom: 0;
