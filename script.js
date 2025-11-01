@@ -1,3 +1,3 @@
 document.addEventListener('DOMContentLoaded', function() {
-    console.log('User interface has loaded successfully!');
+    console.log('The user interface has loaded successfully!');
 });
